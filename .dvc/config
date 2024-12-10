@@ -1,0 +1,4 @@
+[core]
+    remote = myremove
+['remote "myremove"']
+    url = D:\MLProjects\ZDatasets\dvcData\One
